@@ -21,3 +21,9 @@ Once the dependencies are installed, run the development server:
 npm run dev
 ```
 The application will be running on your local host.
+
+![Screenshot 2023-11-07 002924](https://github.com/Stolonifer1903/TodoContextLocal/assets/99045560/124e9920-47d9-495f-a49f-fdc88d545c87)
+
+![Screenshot 2023-11-07 002946](https://github.com/Stolonifer1903/TodoContextLocal/assets/99045560/80b62a47-903d-4475-9dd5-921d1cdcea9e)
+
+
